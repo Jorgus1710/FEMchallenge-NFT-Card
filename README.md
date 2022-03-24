@@ -105,11 +105,11 @@ I need to continue doing challenges. They really force me to develop a broader u
 
 ### Useful resources
 
-Honestly no one single resource was useful here. In the contect of using pseudoclasses and hover states there just wasnt anything I could find that outright helped me. What did help me was disecting other FrontEndMentor solutions and trying things for 2 days before things began to click.
+Honestly no one single resource was useful here. In the context of using pseudoclasses and hover states there just wasnt anything I could find that outright helped me. What did help me was disecting other FrontEndMentor solutions and trying things for 2 days before things began to click.
 
 ## Author
 
 - Website - [George Stawowczyk]()
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Jorgus1710)
+- Frontend Mentor - [@Jorgus1710](https://www.frontendmentor.io/profile/Jorgus1710)
 
 
